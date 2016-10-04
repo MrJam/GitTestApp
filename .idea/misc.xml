@@ -44,6 +44,17 @@
     <option name="id" value="Android" />
   </component>
   <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$/activitylaunchmode">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="svn://101.231.126.116/rusheng/app/android/%E8%B5%84%E6%BA%90%E5%BA%93/%E8%B5%84%E6%BA%90%E5%BA%93/keystores/AndroidStudioProject/GitTestApp/activitylaunchmode" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
   <component name="masterDetails">
